@@ -1,0 +1,15 @@
+references:
+  - "https://en.wikipedia.org/wiki/Mercedes-Benz_EQS"
+
+generations:
+  - name: "First Generation"
+    start_year: 2021
+    end_year: 2024
+    description: "The Mercedes-Benz EQS (V297) is a battery electric full-size luxury liftback car produced by Mercedes-Benz. It was released in September 2021 in Germany and the fourth quarter of 2021 in the United States. The EQS is the first EQ model based on the MEA platform (Mercedes-Benz EVA platform), specifically designed for electric vehicles. It features a drag coefficient of 0.20, making it the world's most aerodynamic production car at its introduction. Available models include EQS 350, EQS 450+, EQS 450 4MATIC, EQS 500 4MATIC, EQS 580 4MATIC, and AMG EQS 53 4MATIC+."
+    platform: "Mercedes-Benz EVA platform (MEA)"
+
+  - name: "First Generation (2024 Facelift)"
+    start_year: 2024
+    end_year: present
+    description: "Mercedes-Benz released the facelifted model of the EQS on 10 April 2024. Changes include the addition of a free-standing hood ornament, an updated front fascia with a faux grille and horizontal chrome slats, interior updates with chrome accents on the B-pillar air vents and rear seat pillows featuring contrast stitching and Nappa leather piping, and increased battery capacity for model variants. The facelift maintains the same V297 platform while updating the exterior styling and improving battery technology."
+    platform: "Mercedes-Benz EVA platform (MEA)"
